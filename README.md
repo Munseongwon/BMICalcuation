@@ -14,4 +14,6 @@
 ![result](https://user-images.githubusercontent.com/96816327/154791175-dde1c1cc-1977-4d9e-a433-84416740dbf3.PNG)
 
 ### 시현 영상
+https://user-images.githubusercontent.com/96816327/154803594-4879f062-314a-4e71-aede-5d2a592c6ea8.mp4
+
 
