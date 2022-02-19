@@ -7,4 +7,11 @@
 - 버튼을 이용하여 다음 엑티비티(BMI 측정 엑티비티)로 계산한 상태에서 넘어가도록 구현하였음
 
 ### Display
+#### 메인 화면
 ![init](https://user-images.githubusercontent.com/96816327/154790859-51da9cee-a8ce-448f-9c21-aff465a10893.PNG)
+
+#### 결과 화면
+![result](https://user-images.githubusercontent.com/96816327/154791175-dde1c1cc-1977-4d9e-a433-84416740dbf3.PNG)
+
+### 시현 영상
+
